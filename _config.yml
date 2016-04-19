@@ -1,0 +1,28 @@
+name: softeningtheedges
+favicon: null
+layout_spectrum: 0.942209366010502
+typography_spectrum: 0.876402692636475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5447634179145098
+  lightness: 0.15624443464912474
+  saturation: 0.062265211250633
+  rhythmicContrast: 0.5161298557650298
+purpose: []
